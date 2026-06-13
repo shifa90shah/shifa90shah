@@ -23,4 +23,6 @@
 
 📚 Currently focusing on Web Development, DSA, and Java Programming.
 
-📫 Connect with me on LinkedIn.....   www.linkedin.com/in/shifa-shah-431624360
+ LinkedIn.....   www.linkedin.com/in/shifa-shah-431624360
+ Medium......                https://medium.com/@shifashahh
+
