@@ -1,4 +1,4 @@
-# Hi, I'm Shifa Shah 👋
+# Hi, I'm Shifa Shah 
 
 🎓 4th Semester Computer Science Student
 
