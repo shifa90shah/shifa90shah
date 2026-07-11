@@ -18,6 +18,7 @@
 * Travel Paradise Webpage
 * Simple Calculator
 * SaaS Landing Page
+* MINI BLOG (A FULL STACK MINI BLOG WEBSITE)
 
 🌱 I enjoy building web applications, learning new technologies, and improving my problem-solving skills.
 
